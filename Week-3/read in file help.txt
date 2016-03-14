@@ -1,0 +1,7 @@
+1.Read each test-case into a string using nextLine().
+2.Split the string into an array of strings, using the String method split(). For the parameter, you choose an expression by which to split the string, so use the white-space delimiter, or just " ".
+3.Parse each string element into an integer, using the Integer method parseInt(), and store them into your integer array.
+
+From the Scanner class, utilize hasNextLine() and !hasNext("\n") to read to end of each line
+
+One (outer) scanner scans in the lines using hasNextLine() then another (inner) scanner that scans the ints in each individual line using hasNextInt().

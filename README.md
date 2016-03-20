@@ -11,3 +11,7 @@ Import the individual weeks into your Eclipse workspace. These projects were bui
 Once the source is imported, simply run the programs as a Java application.
 
 Each week's folder contains the src code, input text files, and assignment description pdfs.
+
+## YouTube
+
+YouTube: 

@@ -14,4 +14,4 @@ Each week's folder contains the src code, input text files, and assignment descr
 
 ## YouTube
 
-YouTube: 
+YouTube: https://www.youtube.com/watch?v=6zX5v_4fYeY&list=PLgAD2y-6wgwrHehLBX2gkHUc9A_dfjtnN
